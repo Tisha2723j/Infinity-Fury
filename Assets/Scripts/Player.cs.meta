@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 0a52c08fa6d424f2880cbdfded202260
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - laserPrefab: {fileID: 4950064594047823816, guid: 0581ce61283bd48d396a2d5c7362c080,
+      type: 3}
+  - laserBigPrefab: {fileID: 64583011982361688, guid: bb545d1bffefc418fafddfffb01fb9ab,
+      type: 3}
+  - rocketPrefab: {fileID: 1374971659677922784, guid: 9f259690e237742508abd96305d61556,
+      type: 3}
+  - helperShipPrefab: {fileID: 2220171383981949324, guid: e5cf79c2d034648fbbd692139b49f0cf,
+      type: 3}
+  - ultraBeamPrefab: {fileID: 4643818239302473495, guid: 66822d238aeaf43c486dcf87223074de,
+      type: 3}
+  - deathVFX: {fileID: 5447018414353597815, guid: f73d03f0356ff4e118007c0f5c15cffa,
+      type: 3}
+  - deathSFX: {fileID: 8300000, guid: 4be823f0751da4b00b9293cf5e8208ae, type: 3}
+  - shootSFX: {fileID: 8300000, guid: 142fff480a8494a7ca22f682846c86c7, type: 3}
+  executionOrder: -95
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
